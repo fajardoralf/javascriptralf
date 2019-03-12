@@ -27,16 +27,16 @@
   },
   "dependencies": {
     "bootstrap": "4.2.1",
-    "jquery": "3.3.1"
+    "express": "^4.16.4",
+    "jquery": "3.3.1",
+    "nodemon": "^1.18.10"
   },
   "devDependencies": {
     "browser-sync": "2.26.3",
-    "gulp": "4.0.0",
-    "nodemon": "*",
-    "express": "*"
+    "gulp": "4.0.0"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "main": "app.js"
 }
