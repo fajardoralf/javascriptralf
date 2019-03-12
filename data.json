@@ -1,0 +1,7 @@
+{
+    "animals": [
+        {"type": "dog", "name": "shiba inu", "age": 9},
+        {"type": "chicken", "name": "hot chicken", "age": 4},
+        {"type": "pig", "name": "piglet", "age": 2}
+    ]
+}
