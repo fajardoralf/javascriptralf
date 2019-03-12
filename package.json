@@ -31,9 +31,9 @@
   },
   "devDependencies": {
     "browser-sync": "2.26.3",
+    "express": "^4.16.4",
     "gulp": "4.0.0",
-    "nodemon": "1.18.10",
-    "express": "4.16.4"
+    "nodemon": "1.18.10"
   },
   "scripts": {
     "start": "node app.js"
